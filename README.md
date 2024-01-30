@@ -1,4 +1,5 @@
 # Bank RIB Revealer
 
 A quick project idea (in 1 hour)
-not polish
+
+link: https://bank-rib.web.app
