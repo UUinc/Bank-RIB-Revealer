@@ -9,7 +9,7 @@ function Navbar() {
       <div>
         <ul className={styles.navigation}>
           <li><a href='#home'>Home</a></li>
-          <li><a href='https://github.com/UUinc'>Contact</a></li>
+          <li><a href='https://github.com/UUinc/Bank-RIB-Revealer' target='_blank'>Contact</a></li>
         </ul>
       </div>
     </div>
