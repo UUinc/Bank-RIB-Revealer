@@ -1,0 +1,27 @@
+.container
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    border-bottom: 6px solid #00000010;
+}
+
+.title
+{
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navigation
+{
+    display: flex;
+    list-style-type: none;
+}
+
+.navigation a
+{
+    text-decoration: none;
+    margin: 0 10px;
+}

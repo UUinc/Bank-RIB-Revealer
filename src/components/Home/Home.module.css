@@ -1,0 +1,27 @@
+.container
+{
+    margin: 50px auto;
+    margin-bottom: 20px;
+    width: 60%;
+}
+
+.container h2
+{
+    font-size: calc(8px + 2vw);
+}
+
+.container h1
+{
+    font-size: calc(11px + 3vw);
+}
+
+.container p
+{
+    width: 40%;
+    min-width: 280px;
+}
+
+.blue
+{
+    color: var(--secondary-color);
+}

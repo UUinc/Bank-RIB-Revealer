@@ -1,0 +1,47 @@
+.container
+{
+    margin: 15px auto;
+    width: 60%;
+}
+
+.formContainer
+{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.formContainer input,
+.formContainer textarea
+{
+    font-size: 18px;
+    padding: 0 15px;
+    background-color: #00000014;
+    margin-top: 15px;
+    border: 0;
+    outline: none;
+}
+
+.formContainer input
+{
+    height: 65px;
+}
+
+.answer
+{
+    font-weight: bold;
+}
+
+.send
+{
+    font-size: 14px;
+    font-weight: bold;
+    background-color: var(--secondary-color);
+    height: 50px;
+    width: 50%;
+    margin-left: 50%;
+    margin-top: 15px;
+    outline: none;
+    cursor: pointer;
+}
